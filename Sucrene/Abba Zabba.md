@@ -1,0 +1,5 @@
+
+
+Species: #character/sucrene 
+Status: Alive
+Locations: [[Candy City]]
